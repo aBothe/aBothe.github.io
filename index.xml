@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="rss.xsl" type="text/xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>Alexander Bothe blog.</title>
+        <link>https://alexanderbothe.com</link>
+        <description>Opinionated. Not <i>that</i> original.
+            <br/>
+            <a href="https://github.com/aBothe" target="_blank">Github</a>
+        </description>
+        <language>en</language>
+
+
+        <item>
+            <title>On Spike-driven development</title>
+            <description>
+                <p>
+                    Over course of the last decade, I learned how to align my way of thinking with getting good coding quality.
+
+                    
+                </p>
+            </description>
+
+            <author>abothe</author>
+            <category>other</category>
+            <guid>610a0dc5-b931-4c26-903b-ab0547397a3b</guid>
+            <pubDate>Sat, 25 Sep 2021 18:00:00 +0200</pubDate>
+        </item>
+
+
+
+
+        <item>
+            <title>Considering apps and other smart things by default is bad.</title>
+            <description>
+                <p>
+                    We live in a time where people assume that complex problems <b>must</b> be solved by %quot;simple%quot; and contemporary solutions - like a smartphone app, or WiFi-enabled thingies!
+                </p>
+                <p>But people, as human as they are, obviously again have illusions (and notable incompetence) about both technical and contextual complexity.</p>
+                <h4>
+                    Example: Having Germany's NINA app instead of SMS Cell-Broadcasts
+                </h4>
+                <p>
+                    In the past, there were some good things. SMS is (kind of) one of them.
+                    Despite it being de-facto insecure nowadays, it features a simple feature and well-defined feature called cell broadcast,
+                    which allows spreading messages to all sorts of smart- and dumbphones for maximum reachability.
+                </p>
+                <p>
+                    Why on earth did responsibles not consider this to be a first-hand tool for catastrophe communication?
+                </p>
+                <p>
+                    Yes, officials aren't easily convinced by proper solutions because <s>it doesn't take more money than necessary</s> they're difficult to implement.
+                </p>
+                <p>
+                    And I guess, that already is the answer.
+                    But even despite the money reason, why aren't folks just willed to pursue lazy approaches?
+                    Using well-established technologies and approaches.
+                </p>
+            </description>
+
+            <author>abothe</author>
+            <category>other</category>
+            <guid>e641f966-3695-4192-a423-82678ece684b</guid>
+            <pubDate>Sun, 20 Jul 2021 18:00:00 +0200</pubDate>
+        </item>
+
+
+        <item>
+            <title>On writing.</title>
+            <description>
+                <p>
+                    Write sentences that lengthwise match your way of breathing.
+                </p>
+                <h4>
+                    Now what about this claim?
+                </h4>
+                <p>
+                    Well, it's an idea to keep sentences as expressive as possible.
+                    <br/>
+                    And hence, as you want to get main points to be understood by everyone surrounding you,
+                    <br/>
+                    you want to don't want them to get distracted.
+                </p>
+                <p>
+                    So, there's no time for inadequate audible speech interruptions, i.e. breath pauses, caused by expressing prolonged sentences and sentence structures.
+                    <br/>
+                    And then there's the idea of writing like the way you speak.
+                    <br/>
+                    Not meaning doing too many orthographic or grammatical sacrifices,
+                    <br/>
+                    but rather comforting the reader with the way you would talk - while reading!
+                </p>
+                <p>
+                    That said, why not optimize at least written speech to a level where you can 'read' breath pauses?
+                    <br/>
+                    Between sentences and/or key messages, so no piece of information goes unnoticed.
+                </p>
+                <p>
+                    Despite this way of communication being less likely emotional or doesn't please every asthetic aspect of language,
+                    <br/>
+                    you tend to communicate subjects efficiently.
+                    <br/>
+                    At least this is my very experience.
+                </p>
+            </description>
+
+            <author>abothe</author>
+            <category>other</category>
+            <guid>be511123-f208-4ee6-8cf2-f64c0ca46ae4</guid>
+            <pubDate>Sun, 06 Jun 2021 10:00:00 +0200</pubDate>
+        </item>
+
+
+        <item>
+            <title>On forgetting things.</title>
+            <description>
+                <p>
+                    People do forget.
+                    <br/>
+                    All the time.
+                    <br/>
+                    Nearly everything.
+                </p>
+                <p>
+                    This has huge and certain effects on how you and others view the world around you.
+                </p>
+                <p>
+                    And codewise, if you program on things all day long, you will likely forget small details after a
+                    while.
+                    <br/>
+                    So, what you might do, is to be prepared.
+                    <br/>
+                    To be prepared for the lack of knowledge of your future-self.
+                </p>
+                <h4>
+                    How to be prepared?
+                </h4>
+                <p>
+                    It's like treating yourself and doing yourself a favor, and make everything to be re-learnable <i>
+                    really
+                </i> easily.
+                    <br/>
+                    So in case you need to put hands on an older topic, you'll remember it quick enough - hopefully.
+                </p>
+                <p>
+                    It's also good to pretend that you currently lack precise knowledge, so you act to be as 'unknowing'
+                    as possible,
+                    <br/>
+                    in order to re-explain things to yourself (and now the good or even 'wise' part arises:) or to
+                    others, like your colleagues.
+                </p>
+                <h4>
+                    What parts then are to be learned repeatedly?
+                </h4>
+                <p>Places in codebases, code conventions &amp; styles, and interface definitions.</p>
+                <p>
+                    So if you name code symbols thoroughly,
+                    <br/>
+                    put classes in packages where you might search for first when looking them up,
+                    <br/>
+                    and keep domain logic coherent (read: put each cluster of logic into a separate object or code
+                    module),
+                    things should go the right way.
+                </p>
+                <p>I guess these are a few coding principles that some programming gurus may defined as well,
+                    <br/>
+                    yet I dipped right into coding without great theoretical backgrounds back then - and made these
+                    experiences on my own.
+                    <br/>
+                    (And please just accept my claims here :-))
+                </p>
+                <p>
+                    And most obviously, even learning how to communicate subjects to yourself (and maybe others) is a
+                    thing to learn as well,
+                    so trying out different things - and failing - is mandatory.
+                </p>
+            </description>
+
+            <author>abothe</author>
+            <category>other</category>
+            <guid>2150accb-16f8-470d-949d-363c2af2f433</guid>
+            <pubDate>Sat, 05 Jun 2021 19:00:00 +0200</pubDate>
+        </item>
+
+
+        <item>
+            <title>On naming (code) things.</title>
+            <description>
+                <p>
+                    When developing software, consider to name every code symbol, structure or variable to what the
+                    symbol should finally represent <b>domain-wise</b>,
+                    <br/>
+                    not what the symbol is made of or consists of.
+                </p>
+                <p>
+                    We finally have passed the era of unassisted code writing and not-knowing what a <i>m_nWheels</i> variable
+                    might stand for,
+                    and can finally adapt to things we figured out over the span of the last 25 years.
+                </p>
+                <p>
+                    In an extended search for examples, I'd take a look at classic calculus:
+                    <br/>
+                    Since the beginning of mathematic and programming teaching,
+                    <br/>
+                    lecturers tend to be too lazy
+                    to name symbols to what they actually shall represent,
+                    <br/>
+                    and instead resort to layman-uncomprehensible terms.
+                </p>
+                <p>
+                    Instead of a <pre>getOrdinatePoint(whereOnAbcissa)
+                    = 2 * whereOnAbcissa + 4</pre>, pupils are often confronted with
+                    <pre>f(x) = 2x + 4</pre>
+                    Why so?
+                    <br/>
+                    Because of not keeping basic readability but (conservative) mathematic convention in mind.
+                    <br/>
+                    And the latter is very unlikely to play a role for said pupils to understand very basic principles
+                    during their evenly stressful situation - of being in school.
+                </p>
+                <p>
+                    And even later in one's education, where you might learn how to program in Java,
+                    <br/>
+                    you get to learn your very first example of for-loops:
+                    <pre><![CDATA[for (int i = 0; i < 5; i++) {
+    System.out.println(i);
+}]]></pre>
+                    As this is the trivial example, you don't want to have to understand the context of <i>i</i> in
+                    real-world scenarios.
+                    <br/>
+                    Instead, you need to know what things mean immediately without using your brain:
+                    <pre><![CDATA[for (int argumentIndex = 0;
+    argumentIndex < args.length;
+    argumentIndex++) {
+    System.out.println(
+        args[argumentIndex]
+    );
+}]]></pre>
+                </p>
+                <p>
+                    This way, you wouldn't have to introduce programming newbies the concept of reasonable symbol naming
+                    and hence don't likely ruin your year-long well-crafted codebase.
+                </p>
+                <p>
+                    Stop this whole piece of misconception at its roots!
+                    <br/>
+                    Beware of the wrong kind of laziness and gift awareness for comprehension to everyone.
+                </p>
+            </description>
+
+            <author>abothe</author>
+            <category>work</category>
+
+            <guid>cbb1130f-2ab0-4845-b894-bc3cc8673377</guid>
+            <pubDate>Sat, 05 Jun 2021 17:00:00 +0200</pubDate>
+        </item>
+
+
+        <item>
+            <title>Stuff that makes you happy.</title>
+            <description>
+                Do it. Enjoy it while it lasts!
+                <br/>
+                But also keep legal &amp; normative boundaries in mind.
+            </description>
+
+            <author>abothe</author>
+            <category>other</category>
+
+            <guid>8295726a-6eed-4a8c-b089-ce01cf831bc2</guid>
+            <pubDate>Sat, 05 Jun 2021 15:30:00 +0200</pubDate>
+        </item>
+
+
+        <item>
+            <title>On corporate Meeting culture.</title>
+            <description>
+                <p>
+                    Why do people attend hour long meetings?
+                    <br/>
+                    Or even plan them?
+                    <br/>
+                    Why do they discuss things in them despite no one did ever prepare for a topic?
+                </p>
+                <p>
+                    Because people seem not to know better and often enough don't reflect on how meetings actually are
+                    meant
+                    to
+                    work
+                    because there's the next follow-up upcoming or day's end just in sight.
+                </p>
+                <h4>How to plan better meetings with less snore noises and wasted man-hours?</h4>
+                <p>
+                    Why not pre-formulate a goal, and then expect a type of result or outcome:
+                    <br/>
+                    (And of course, you have to do this <i>before</i> the actual meeting, not <i>during</i> the
+                    meeting.)
+                    <br/>
+                    <h4>Is it a decision being made?</h4>
+                    Then just involve those few (read: max. 4) people who can really support a decision making.
+                    <h4>Is it a question you want an answer for?</h4>
+                    Then put up your question in the meeting subject and ask people to only join if they likely have
+                    meaningful input.
+                    <h4>Or do you want to hand out information?</h4>
+                    Then prepare an easy to eye-scan write-up and ask people to only join if things are unclear.
+                    <br/>
+                    Guess what, no one will join, and you likely don't even need the meeting.
+
+                    <h4>And what about team huddles?</h4>
+                    Resort to the questions above.
+                    <br/>
+                    There's likely only one or two people involved with the very specifics of your technical question.
+                    <br/>
+                    And later on, after you've decided new directions, you may inform the others briefly.
+                    <br/>
+                    Voilà, time saved.
+                </p>
+            </description>
+
+            <author>abothe</author>
+            <category>work</category>
+
+            <guid>22b9f645-37d4-43e2-bb4f-e994260a0e3b</guid>
+            <pubDate>Sat, 05 Jun 2021 15:00:00 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
