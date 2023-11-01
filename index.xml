@@ -3,7 +3,7 @@
 <rss version="2.0">
     <channel>
         <title>Alexander Bothe blog.</title>
-        <link>https://alexanderbothe.com</link>
+        <link>https://abothe.github.io</link>
         <description>Opinionated. Not <i>that</i> original.
             <br/>
             <a href="https://github.com/aBothe" target="_blank">Github</a>
@@ -15,9 +15,10 @@
             <title>On Spike-driven development</title>
             <description>
                 <p>
-                    Over course of the last decade, I learned how to align my way of thinking with getting good coding quality.
+                    Over course of the last decade, I learned how to align my way of thinking with getting good coding
+                    quality.
 
-                    
+
                 </p>
             </description>
 
@@ -28,28 +29,33 @@
         </item>
 
 
-
-
         <item>
             <title>Considering apps and other smart things by default is bad.</title>
             <description>
                 <p>
-                    We live in a time where people assume that complex problems <b>must</b> be solved by %quot;simple%quot; and contemporary solutions - like a smartphone app, or WiFi-enabled thingies!
+                    We live in days where people assume that complex problems <b>must</b> be solved by "simple" and
+                    contemporary solutions - like a smartphone app, or WiFi-enabled thingies!
                 </p>
-                <p>But people, as human as they are, obviously again have illusions (and notable incompetence) about both technical and contextual complexity.</p>
+                <p>But people, as human as they are, obviously again have illusions (and notable incompetence) about
+                    both technical and contextual complexity.
+                </p>
                 <h4>
                     Example: Having Germany's NINA app instead of SMS Cell-Broadcasts
                 </h4>
                 <p>
                     In the past, there were some good things. SMS is (kind of) one of them.
-                    Despite it being de-facto insecure nowadays, it features a simple feature and well-defined feature called cell broadcast,
+                    Despite it being de-facto insecure nowadays, it features a simple feature and well-defined feature
+                    called cell broadcast,
                     which allows spreading messages to all sorts of smart- and dumbphones for maximum reachability.
                 </p>
                 <p>
-                    Why on earth did responsibles not consider this to be a first-hand tool for catastrophe communication?
+                    Why on earth did responsibles not consider this to be a first-hand tool for catastrophe
+                    communication?
                 </p>
                 <p>
-                    Yes, officials aren't easily convinced by proper solutions because <s>it doesn't take more money than necessary</s> they're difficult to implement.
+                    Yes, officials aren't easily convinced by proper solutions because <s>it doesn't take more money
+                    than necessary
+                </s> they're difficult to implement.
                 </p>
                 <p>
                     And I guess, that already is the answer.
@@ -82,7 +88,8 @@
                     you want to don't want them to get distracted.
                 </p>
                 <p>
-                    So, there's no time for inadequate audible speech interruptions, i.e. breath pauses, caused by expressing prolonged sentences and sentence structures.
+                    So, there's no time for inadequate audible speech interruptions, i.e. breath pauses, caused by
+                    expressing prolonged sentences and sentence structures.
                     <br/>
                     And then there's the idea of writing like the way you speak.
                     <br/>
@@ -96,7 +103,8 @@
                     Between sentences and/or key messages, so no piece of information goes unnoticed.
                 </p>
                 <p>
-                    Despite this way of communication being less likely emotional or doesn't please every asthetic aspect of language,
+                    Despite this way of communication being less likely emotional or doesn't please every asthetic
+                    aspect of language,
                     <br/>
                     you tend to communicate subjects efficiently.
                     <br/>
